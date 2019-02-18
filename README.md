@@ -1,2 +1,2 @@
-#flutekiki.github.io
-个人网站
+#FluteKiKi.github.io
+个人站点
